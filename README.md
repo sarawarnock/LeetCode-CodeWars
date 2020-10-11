@@ -7,7 +7,8 @@
 
 Title | Solution | Comments | Difficulty | Tag | Date
 --------- | ------------ | ------------- | ---------- | --- | ----
-Count Bits | [Solution]() | First attemped passes tests but times out when submitting. Changed to used .map and it's still slow, but  | Easy | Bits, Binary | 10/11/2020
+Growth of a Population | [Solution](https://www.codewars.com/kata/563b662a59afc2b5120000c6/solutions/javascript) | My solution is a bit slower, but I understand how to make it faster by combining two steps. | 7kyu | Fundamentals | 10/11/2020
+Count Bits | [Solution](https://www.codewars.com/kata/526571aae218b8ee490006f4/solutions/javascript) | First attemped passes tests but times out when submitting. Changed to used .map and it's still slow, but the solution passed. Needed to use .length | 6kyu | Bits, Binary | 10/11/2020
 Multiples of 3 or 5  | [Solution](https://www.codewars.com/kata/514b92a657cdc65150000006/train/javascript) | Easy to solve - took less than 10 min | 6kyu | | 10/11/2020
 Array Diff | [Solution](https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript) | Took a few tries -- used .filter method instead of for loop | 6kyu | Array | 10/11/2020
 
