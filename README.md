@@ -7,6 +7,7 @@
 
 Title | Solution | Comments | Difficulty | Tag | Date
 ----------- | ------------ | ------------- | ---------- | --- | ----
+Double Integer | [Solution](https://www.codewars.com/kata/53ee5429ba190077850011d4/solutions/javascript) | Very easy | 8 kyu | | 10/14/2020
 Keep Hydrated | [Solution](https://www.codewars.com/kata/582cb0224e56e068d800003c) | | 8kyu | | 10/12/2020 
 Valid Parentheses | [Solution](https://www.codewars.com/kata/reviews/52774a314c2333f0a700068b/groups/5f83aaf715176b0001c77b0a) | Had a tough time coming up with the full solution - got it to work in all cases but two before I looked up help | 5kyu | | 10/11/2020
 Growth of a Population | [Solution](https://www.codewars.com/kata/563b662a59afc2b5120000c6/solutions/javascript) | My solution is a bit slower, but I understand how to make it faster by combining two steps. | 7kyu | Fundamentals | 10/11/2020
