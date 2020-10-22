@@ -7,6 +7,9 @@
 
 Title | Solution | Comments | Difficulty | Tag | Date
 ----------- | ------------ | ------------- | ---------- | --- | ----
+Shortest Word | [Solution](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/solutions/javascript) | This could have been done more efficiently | 7kyu | Arrays | 10/21/2020
+Returning Strings | [Solution](https://www.codewars.com/kata/55a70521798b14d4750000a4) | | 8kyu | Fundamentals | 10/21/2020
+L1: Set Alarm | [Solution](https://www.codewars.com/kata/568dcc3c7f12767a62000038) | | 8kyu | Fundamentals | 10/21/2020
 Double Integer | [Solution](https://www.codewars.com/kata/53ee5429ba190077850011d4/solutions/javascript) | Very easy | 8 kyu | | 10/14/2020
 Keep Hydrated | [Solution](https://www.codewars.com/kata/582cb0224e56e068d800003c) | | 8kyu | | 10/12/2020 
 Valid Parentheses | [Solution](https://www.codewars.com/kata/reviews/52774a314c2333f0a700068b/groups/5f83aaf715176b0001c77b0a) | Had a tough time coming up with the full solution - got it to work in all cases but two before I looked up help | 5kyu | | 10/11/2020
