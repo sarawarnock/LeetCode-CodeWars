@@ -7,6 +7,7 @@
 
 Title | Solution | Comments | Difficulty | Tag | Date
 ----------- | ------------ | ------------- | ---------- | --- | ----
+Invert Values | [Solution](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/solutions/java) | Did this in Java and JavaScript | 8kyu | Array | 10/23/2020
 Triple X | [Solution](https://www.codewars.com/kata/568dc69683322417eb00002c/solutions/javascript) | This coul done more efficiently | 7kyu | Strings, Loops | 10/23/2020
 Shortest Word | [Solution](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/solutions/javascript) | This could have been done more efficiently | 7kyu | Arrays | 10/21/2020
 Returning Strings | [Solution](https://www.codewars.com/kata/55a70521798b14d4750000a4) | | 8kyu | Fundamentals | 10/21/2020
