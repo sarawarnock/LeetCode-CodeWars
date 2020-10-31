@@ -7,6 +7,7 @@
 
 Title | Solution | Comments | Difficulty | Tag | Date
 ----------- | ------------ | ------------- | ---------- | --- | ----
+Basic Sequence Practice | [Solution](codewars.com/kata/5436f26c4e3d6c40e5000282/solutions/javascript) | Weird lingo, also it was possible to return -0 in the tests | 7kyu | | 10/31/2020
 Mirror, Mirror on the Wall | [Solution](https://www.codewars.com/kata/5f55ecd770692e001484af7d/solutions/javascript) | Had issues not mutating the input, use .map to create a new array | 7kyu | Array | 10/29/2020
 Sum of Array Singles | [Solution](https://www.codewars.com/kata/59f11118a5e129e591000134/solutions/javascript) | Had trouble getting rid of both sets of doubles | 7kyu | Array | 10/29/2020
 Invert Values | [Solution](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/solutions/java) | Did this in Java and JavaScript | 8kyu | Array | 10/23/2020
