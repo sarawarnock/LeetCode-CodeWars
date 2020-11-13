@@ -7,6 +7,7 @@
 
 Title | Solution | Comments | Difficulty | Tag | Date
 ----------- | ------------ | ------------- | ---------- | --- | ----
+Consecutive Items | [Solution](https://www.codewars.com/kata/5f6d533e1475f30001e47514/solutions/javascript) | I overcomplicated this! | 7kyu | Arrays | 11/13/2020
 String Doubles | [Solution](https://www.codewars.com/kata/5a145ab08ba9148dd6000094/solutions/javascript) | Was trying a for loop and splicing, but then a stack is a better solution | 7kyu | Algorithms, Strings | 11/12/2020
 Life Path Number | [Solution](https://www.codewars.com/kata/5a1a76c8a7ad6aa26a0007a0/solutions/javascript) | Honestly had to look this up. My first idea was mostly correct, but few tests cases were not passing | 7kyu | | 11/11/2020
 Basic Sequence Practice | [Solution](codewars.com/kata/5436f26c4e3d6c40e5000282/solutions/javascript) | Weird lingo, also it was possible to return -0 in the tests | 7kyu | | 10/31/2020
