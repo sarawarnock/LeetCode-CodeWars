@@ -7,6 +7,7 @@
 
 Title | Solution | Comments | Difficulty | Tag | Date
 ----------- | ------------ | ------------- | ---------- | --- | ----
+Next Perfect Square | [Solution](https://www.codewars.com/kata/599f403119afacf9f1000051) | Definitely a simpler solution | 7kyu | Math | 12/30/2020
 Uglify Word | [Solution](https://www.codewars.com/kata/5ce6cf94cb83dc0020da1929/solutions/javascript) | Good once I realized strings are immutable | 7kyu | Strings | 11/13/2020
 Consecutive Items | [Solution](https://www.codewars.com/kata/5f6d533e1475f30001e47514/solutions/javascript) | I overcomplicated this! | 7kyu | Arrays | 11/13/2020
 String Doubles | [Solution](https://www.codewars.com/kata/5a145ab08ba9148dd6000094/solutions/javascript) | Was trying a for loop and splicing, but then a stack is a better solution | 7kyu | Algorithms, Strings | 11/12/2020
