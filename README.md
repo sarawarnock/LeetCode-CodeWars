@@ -7,6 +7,7 @@
 
 Title | Solution | Comments | Difficulty | Tag | Date
 ----------- | ------------ | ------------- | ---------- | --- | ----
+Four Seven | [Solution](https://www.codewars.com/kata/5ff50f64c0afc50008861bf0/solutions/javascript) | Fun! More of a puzzle. | 7kyu | Puzzles | 1/8/2021
 Four Seasons | [Solution](https://www.codewars.com/kata/5846174c5955406d02000b59/solutions/javascript) | 7kyu | Fundamentals | 1/7/2021
 Next Perfect Square | [Solution](https://www.codewars.com/kata/599f403119afacf9f1000051) | Definitely a simpler solution | 7kyu | Math | 12/30/2020
 Uglify Word | [Solution](https://www.codewars.com/kata/5ce6cf94cb83dc0020da1929/solutions/javascript) | Good once I realized strings are immutable | 7kyu | Strings | 11/13/2020
