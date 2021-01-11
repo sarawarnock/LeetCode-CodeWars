@@ -7,6 +7,7 @@
 
 Title | Solution | Comments | Difficulty | Tag | Date
 ----------- | ------------ | ------------- | ---------- | --- | ----
+Stones on the Table | [Solution](https://www.codewars.com/kata/5f70e4cce10f9e0001c8995a/solutions/javascript) | Very easy | 7kyu | Fundamentals, Strings | 1//11/2021
 Nth Power | [Solution](https://www.codewars.com/kata/57d814e4950d8489720008db/solutions/javascript) | Fun one! | 8kyu | | 1/10/2021
 Four Seven | [Solution](https://www.codewars.com/kata/5ff50f64c0afc50008861bf0/solutions/javascript) | Fun! More of a puzzle. | 7kyu | Puzzles | 1/8/2021
 Four Seasons | [Solution](https://www.codewars.com/kata/5846174c5955406d02000b59/solutions/javascript) | 7kyu | Fundamentals | 1/7/2021
